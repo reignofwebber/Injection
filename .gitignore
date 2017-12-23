@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs/Injection/v15
+/exception/x64/Debug
+/test/Debug
+/test/x64/Debug
+/tree/x64/Debug
+/xml/Debug
+/xml/x64/Debug
+/CleanEx.bat
